@@ -1,0 +1,18 @@
+[submodule "_helpers"]
+	path = _helpers
+	url = git@bitbucket.org:labdevs/_helpers.git
+[submodule "autoscan"]
+	path = autoscan
+	url = git@bitbucket.org:labdevs/autoscan.git
+[submodule "oo_nir"]
+	path = oo_nir
+	url = git@bitbucket.org:labdevs/oo_nir.git
+[submodule "uvvisnir"]
+	path = uvvisnir
+	url = git@bitbucket.org:labdevs/uvvisnir.git
+[submodule "ner_usa"]
+	path = ner_usa
+	url = git@bitbucket.org:labdevs/ner_usa.git
+[submodule "notebooks"]
+	path = notebooks
+	url = git@bitbucket.org:labdevs/notebooks.git
