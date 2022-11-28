@@ -1,0 +1,24 @@
+[submodule "_helpers"]
+	path = _helpers
+	url = git@github.com:lab-analytics/_helpers.git
+	branch = main
+[submodule "autoscan"]
+	path = autoscan
+	url = git@github.com:lab-analytics/autoscan.git
+	branch = main
+[submodule "nir_spectra"]
+	path = nir_spectra
+	url = git@github.com:lab-analytics/nir_spectra.git
+	branch = main
+[submodule "uvvisir_spectra"]
+	path = uvvisir_spectra
+	url = git@github.com:lab-analytics/uvvisir_spectra.git
+	branch = main
+[submodule "ner_usa"]
+	path = ner_usa
+	url = git@github.com:lab-analytics/ner_usa.git
+	branch = main
+[submodule "wranglers"]
+	path = wranglers
+	url = git@github.com:lab-analytics/wranglers.git
+	branch = main
